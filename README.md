@@ -3,11 +3,11 @@
 ```
 npm install
 ```
----
-#### Create Database Called "Data"
----
+## Installation
 
-#### Import "Cards" Table Into Database "Data"
+1. Create Database Called "Data"
+
+2. Import "Cards" Table Into Database "Data"
 ---
 
 ## To run server

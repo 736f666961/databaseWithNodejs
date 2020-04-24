@@ -3,7 +3,7 @@
 ```
 npm install
 ```
-## Installation
+## Creating
 
 1. Create Database Called "Data"
 

@@ -4,7 +4,7 @@
 npm install
 ```
 
-###[x] Create Database Called "Data"
+### [x] Create Database Called "Data"
 
 
 ### Import "Cards" Table Into Database "Data"

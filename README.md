@@ -4,7 +4,7 @@
 npm install
 ```
 
-### Create Database Called "Data"
+### <span style="color:gray"> Create Database Called "Data" </span>
 
 
 ### Import "Cards" Table Into Database "Data"

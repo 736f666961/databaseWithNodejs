@@ -8,7 +8,7 @@ npm install
 1. Create Database Called "Data"
 
 2. Import "Cards" Table Into Database "Data"
----
+
 
 ## To run server
 
